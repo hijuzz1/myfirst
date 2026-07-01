@@ -20,10 +20,10 @@
 
   
   <a href="default.asp">
-  <img src="images/728820988_18055124291753423_7905431986644757935_n.jpg"style="width: 180px;;height: 180px;;">
+  <img src="images/485603584_1180518843724001_278394202198681507_n.jpg"style="width: 180px;;height: 180px;;">
 </a>
 
-<h1></h1><a href="Visit my favorite learning website:">Visit my favorite learning website: https://www.w3schools.com/</a><h1></h1>
+<h1></h1><a href="Visit my favorite learning website:">Visit my favorite learning website: https://www.facebook.com/CherrJus05/</a><h1></h1>
 
  <h1 style="color:green;">My Favorite Quote</h1>
 
